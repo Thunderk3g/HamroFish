@@ -1,4 +1,4 @@
-﻿[project]
+[project]
 name = "hamrofish-backend"
 version = "0.1.0"
 description = "HamroFish - A simple and universal swarm intelligence engine, predicting anything"

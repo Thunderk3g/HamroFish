@@ -1,4 +1,4 @@
-﻿"""
+"""
 LLM client wrapper.
 Uses the OpenAI-compatible API format.
 """
@@ -9,6 +9,9 @@ from typing import Optional, Dict, Any, List
 from openai import OpenAI
 
 from ..config import Config
+from .logger import get_logger
+
+logger = get_logger('hamrofish.llm_client')
 
 
 class LLMClient:
@@ -65,6 +68,12 @@ class LLMClient:
         content = response.choices[0].message.content
         # Some models (e.g., MiniMax M2.5) may include <think> content; strip it.
         content = re.sub(r'<think>[\s\S]*?</think>', '', content).strip()
+        
+        # Log the LLM interaction
+        prompt_preview = str(messages[-1]['content'])[:100] + "..." if messages else "None"
+        logger.info(f"LLM Chat - Prompt preview: {prompt_preview}")
+        logger.debug(f"LLM Chat - Full Response: {content}")
+        
         return content
 
     def chat_json(

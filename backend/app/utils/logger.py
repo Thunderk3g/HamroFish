@@ -1,4 +1,4 @@
-﻿"""
+"""
 Logging configuration module.
 Provides unified logging management for console and file output.
 """
@@ -27,7 +27,7 @@ def _ensure_utf8_stdout():
 LOG_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), 'logs')
 
 
-def setup_logger(name: str = 'hamrofish', level: int = logging.DEBUG) -> logging.Logger:
+def setup_logger(name: str = 'shibaswarm', level: int = logging.DEBUG) -> logging.Logger:
     """
     Configure a logger.
 
