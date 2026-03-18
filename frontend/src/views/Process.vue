@@ -2,7 +2,7 @@
   <div class="process-page">
     <!-- Top Nav Bar -->
     <nav class="navbar">
-      <div class="nav-brand" @click="goHome">MIROFISH</div>
+      <div class="nav-brand" @click="goHome">ShibaSwarm</div>
       
       <!-- Middle Step Indicator -->
       <div class="nav-center">

@@ -1,7 +1,7 @@
 {
-  "name": "hamrofish",
+  "name": "ShibaSwarm",
   "version": "0.1.0",
-  "description": "HamroFish - A simple and universal swarm intelligence engine, predicting anything",
+  "description": "ShibaSwarm - A simple and universal swarm intelligence engine, predicting anything",
   "scripts": {
     "setup": "npm install && cd frontend && npm install",
     "setup:backend": "cd backend && uv sync",

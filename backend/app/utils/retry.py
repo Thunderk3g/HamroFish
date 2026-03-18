@@ -1,4 +1,4 @@
-﻿"""
+"""
 API retry helpers.
 Used for retry logic on external API calls such as LLMs.
 """
@@ -9,7 +9,7 @@ import functools
 from typing import Callable, Any, Optional, Type, Tuple
 from ..utils.logger import get_logger
 
-logger = get_logger('hamrofish.retry')
+logger = get_logger('ShibaSwarm.retry')
 
 
 def retry_with_backoff(

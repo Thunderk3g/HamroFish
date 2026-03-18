@@ -87,7 +87,7 @@ def setup_logger(name: str = 'shibaswarm', level: int = logging.DEBUG) -> loggin
     return logger
 
 
-def get_logger(name: str = 'hamrofish') -> logging.Logger:
+def get_logger(name: str = 'ShibaSwarm') -> logging.Logger:
     """
     Get a logger (create if missing).
 

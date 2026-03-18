@@ -2,9 +2,9 @@
   <div class="home-container">
     <!-- Top Nav Bar -->
     <nav class="navbar">
-      <div class="nav-brand">MIROFISH</div>
+      <div class="nav-brand">ShibaSwarm</div>
       <div class="nav-links">
-        <a href="https://github.com/666ghj/MiroFish" target="_blank" class="github-link">
+        <a href="https://github.com/666ghj/ShibaSwarm" target="_blank" class="github-link">
           Visit our GitHub page <span class="arrow">↗</span>
         </a>
       </div>
@@ -26,7 +26,7 @@
           
           <div class="hero-desc">
             <p>
-              Even with just a short text, <span class="highlight-bold">MiroFish</span> can extract real-world seeds and automatically generate a parallel world of up to <span class="highlight-orange">millions of agents</span>. By injecting variables from a god's-eye view, it searches for a <span class="highlight-code">"local optimum"</span> in complex collective interactions.
+              Even with just a short text, <span class="highlight-bold">ShibaSwarm</span> can extract real-world seeds and automatically generate a parallel world of up to <span class="highlight-orange">millions of agents</span>. By injecting variables from a god's-eye view, it searches for a <span class="highlight-code">"local optimum"</span> in complex collective interactions.
             </p>
             <p class="slogan-text">
               Let the future play out among agents, and let decisions prevail after a hundred battles<span class="blinking-cursor">_</span>
@@ -39,7 +39,7 @@
         <div class="hero-right">
           <!-- Logo Area -->
           <div class="logo-container">
-            <img src="../assets/logo/MiroFish_logo_left.jpeg" alt="MiroFish Logo" class="hero-logo" />
+            <img src="../assets/logo/ShibaSwarm_logo_left.jpeg" alt="ShibaSwarm Logo" class="hero-logo" />
           </div>
           
           <button class="scroll-down-btn" @click="scrollToBottom">
@@ -180,7 +180,7 @@
                   rows="6"
                   :disabled="loading"
                 ></textarea>
-                <div class="model-badge">Engine: MiroFish-V1.0</div>
+                <div class="model-badge">Engine: ShibaSwarm-V1.0</div>
               </div>
             </div>
 

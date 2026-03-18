@@ -1,9 +1,9 @@
-﻿services:
-  hamrofish:
-    image: ghcr.io/666ghj/hamrofish:latest
+services:
+  ShibaSwarm:
+    image: ghcr.io/666ghj/ShibaSwarm:latest
     # Mirror image (use if pulling is slow):
-    # image: ghcr.nju.edu.cn/666ghj/hamrofish:latest
-    container_name: hamrofish
+    # image: ghcr.nju.edu.cn/666ghj/ShibaSwarm:latest
+    container_name: ShibaSwarm
     env_file:
       - .env
     ports:

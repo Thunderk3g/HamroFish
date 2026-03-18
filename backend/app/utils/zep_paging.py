@@ -1,4 +1,4 @@
-﻿"""
+"""
 Zep Graph pagination helpers.
 
 Zep node/edge list APIs use a UUID cursor for pagination.
@@ -17,7 +17,7 @@ from zep_cloud.client import Zep
 
 from .logger import get_logger
 
-logger = get_logger('hamrofish.zep_paging')
+logger = get_logger('ShibaSwarm.zep_paging')
 
 _DEFAULT_PAGE_SIZE = 100
 _MAX_NODES = 2000

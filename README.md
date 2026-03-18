@@ -1,46 +1,46 @@
-ï»¿<div align="center">
+<div align="center">
 
-<img src="./static/image/HamroFish_logo_compressed.jpeg" alt="HamroFish Logo" width="75%"/>
+<img src="./static/image/ShibaSwarm_logo_compressed.jpeg" alt="ShibaSwarm Logo" width="75%"/>
 
-<a href="https://trendshift.io/repositories/16144" target="_blank"><img src="https://trendshift.io/api/badge/repositories/16144" alt="666ghj%2FHamroFish | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/16144" target="_blank"><img src="https://trendshift.io/api/badge/repositories/16144" alt="666ghj%2FShibaSwarm | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 A simple and universal swarm intelligence engine, predicting anything
 </br>
 <em>A simple and universal swarm intelligence engine, predicting anything</em>
 
-<a href="https://www.shanda.com/" target="_blank"><img src="./static/image/shanda_logo.png" alt="HamroFish | Shanda" height="40"/></a>
+<a href="https://www.shanda.com/" target="_blank"><img src="./static/image/shanda_logo.png" alt="ShibaSwarm | Shanda" height="40"/></a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/666ghj/HamroFish?style=flat-square&color=DAA520)](https://github.com/666ghj/HamroFish/stargazers)
-[![GitHub Watchers](https://img.shields.io/github/watchers/666ghj/HamroFish?style=flat-square)](https://github.com/666ghj/HamroFish/watchers)
-[![GitHub Forks](https://img.shields.io/github/forks/666ghj/HamroFish?style=flat-square)](https://github.com/666ghj/HamroFish/network)
+[![GitHub Stars](https://img.shields.io/github/stars/666ghj/ShibaSwarm?style=flat-square&color=DAA520)](https://github.com/666ghj/ShibaSwarm/stargazers)
+[![GitHub Watchers](https://img.shields.io/github/watchers/666ghj/ShibaSwarm?style=flat-square)](https://github.com/666ghj/ShibaSwarm/watchers)
+[![GitHub Forks](https://img.shields.io/github/forks/666ghj/ShibaSwarm?style=flat-square)](https://github.com/666ghj/ShibaSwarm/network)
 [![Docker](https://img.shields.io/badge/Docker-Build-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/666ghj/HamroFish)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/666ghj/ShibaSwarm)
 
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/1469200078932545606/1469201282077163739)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hamrofish_ai)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hamrofish_ai/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ShibaSwarm_ai)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ShibaSwarm_ai/)
 
 </div>
 
 ## Overview
 
-**HamroFish** is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals), it automatically constructs a high-fidelity parallel digital world. Within this space, thousands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a "God's-eye view" to precisely deduce future trajectories â€” rehearse the future in a digital sandbox, and win decisions after countless simulations.
+**ShibaSwarm** is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals), it automatically constructs a high-fidelity parallel digital world. Within this space, thousands of intelligent agents with independent personalities, long-term memory, and behavioral logic freely interact and undergo social evolution. You can inject variables dynamically from a "God's-eye view" to precisely deduce future trajectories — rehearse the future in a digital sandbox, and win decisions after countless simulations.
 
 > You only need to: upload seed materials (data analysis reports or interesting novel stories) and describe your prediction requirements in natural language</br>
-> HamroFish will return: a detailed prediction report and a deeply interactive high-fidelity digital world
+> ShibaSwarm will return: a detailed prediction report and a deeply interactive high-fidelity digital world
 
 ### Our Vision
 
-HamroFish is dedicated to creating a swarm intelligence mirror that maps reality. By capturing the collective emergence triggered by individual interactions, we break through the limitations of traditional prediction:
+ShibaSwarm is dedicated to creating a swarm intelligence mirror that maps reality. By capturing the collective emergence triggered by individual interactions, we break through the limitations of traditional prediction:
 
 - **At the macro level**: we are a rehearsal laboratory for decision-makers, allowing policies and public relations to be tested at zero risk
-- **At the micro level**: we are a creative sandbox for individual users â€” whether deducing novel endings or exploring imaginative scenarios, everything can be fun, playful, and accessible
+- **At the micro level**: we are a creative sandbox for individual users — whether deducing novel endings or exploring imaginative scenarios, everything can be fun, playful, and accessible
 
 From serious predictions to playful simulations, we let every "what if" see its outcome, making it possible to predict anything.
 
 ## Live Demo
 
-Welcome to visit our online demo environment and experience a prediction simulation on trending public opinion events we've prepared for you: [hamrofish-live-demo](https://666ghj.github.io/hamrofish-demo/)
+Welcome to visit our online demo environment and experience a prediction simulation on trending public opinion events we've prepared for you: [ShibaSwarm-live-demo](https://666ghj.github.io/ShibaSwarm-demo/)
 
 ## Screenshots
 
@@ -63,10 +63,10 @@ Welcome to visit our online demo environment and experience a prediction simulat
 
 ## Demo Videos
 
-### 1. Wuhan University Public Opinion Simulation + HamroFish Project Introduction
+### 1. Wuhan University Public Opinion Simulation + ShibaSwarm Project Introduction
 
 <div align="center">
-<a href="https://www.bilibili.com/video/BV1VYBsBHEMY/" target="_blank"><img src="./static/image/wuhan-university-demo-cover.png" alt="HamroFish Demo Video" width="75%"/></a>
+<a href="https://www.bilibili.com/video/BV1VYBsBHEMY/" target="_blank"><img src="./static/image/wuhan-university-demo-cover.png" alt="ShibaSwarm Demo Video" width="75%"/></a>
 
 Click the image to watch the complete demo video for prediction using a BettaFish-generated "Wuhan University Public Opinion Report"
 </div>
@@ -74,9 +74,9 @@ Click the image to watch the complete demo video for prediction using a BettaFis
 ### 2. Dream of the Red Chamber Lost Ending Simulation
 
 <div align="center">
-<a href="https://www.bilibili.com/video/BV1cPk3BBExq" target="_blank"><img src="./static/image/dream-of-red-chamber-demo-cover.jpg" alt="HamroFish Demo Video" width="75%"/></a>
+<a href="https://www.bilibili.com/video/BV1cPk3BBExq" target="_blank"><img src="./static/image/dream-of-red-chamber-demo-cover.jpg" alt="ShibaSwarm Demo Video" width="75%"/></a>
 
-Click the image to watch HamroFish's deep prediction of the lost ending based on hundreds of thousands of words from the first 80 chapters of "Dream of the Red Chamber"
+Click the image to watch ShibaSwarm's deep prediction of the lost ending based on hundreds of thousands of words from the first 80 chapters of "Dream of the Red Chamber"
 </div>
 
 > **Financial prediction**, **political news prediction** and more examples coming soon...
@@ -182,20 +182,20 @@ Reads `.env` from the root directory by default, maps ports `3000 (frontend) / 5
 
 &nbsp;
 
-The HamroFish team is recruiting full-time/internship positions. If you're interested in multi-agent simulation and LLM applications, feel free to send your resume to: **hamrofish@shanda.com**
+The ShibaSwarm team is recruiting full-time/internship positions. If you're interested in multi-agent simulation and LLM applications, feel free to send your resume to: **ShibaSwarm@shanda.com**
 
 ## Acknowledgments
 
-**HamroFish has received strategic support and incubation from Shanda Group.**
+**ShibaSwarm has received strategic support and incubation from Shanda Group.**
 
-HamroFish's simulation engine is powered by **[OASIS (Open Agent Social Interaction Simulations)](https://github.com/camel-ai/oasis)**. We sincerely thank the CAMEL-AI team for their open-source contributions.
+ShibaSwarm's simulation engine is powered by **[OASIS (Open Agent Social Interaction Simulations)](https://github.com/camel-ai/oasis)**. We sincerely thank the CAMEL-AI team for their open-source contributions.
 
 ## Project Statistics
 
-<a href="https://www.star-history.com/#666ghj/HamroFish&type=date&legend=top-left">
+<a href="https://www.star-history.com/#666ghj/ShibaSwarm&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=666ghj/HamroFish&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=666ghj/HamroFish&type=date&theme=light&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=666ghj/HamroFish&type=date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=666ghj/ShibaSwarm&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=666ghj/ShibaSwarm&type=date&theme=light&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=666ghj/ShibaSwarm&type=date" />
  </picture>
 </a>

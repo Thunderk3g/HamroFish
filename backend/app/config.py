@@ -1,4 +1,4 @@
-﻿"""
+"""
 Configuration management.
 Loads settings from the project root .env file.
 """
@@ -7,7 +7,7 @@ import os
 from dotenv import load_dotenv
 
 # Load the project root .env file
-# Path: HamroFish/.env (relative to backend/app/config.py)
+# Path: ShibaSwarm/.env (relative to backend/app/config.py)
 project_root_env = os.path.join(os.path.dirname(__file__), '../../.env')
 
 if os.path.exists(project_root_env):
@@ -21,7 +21,7 @@ class Config:
     """Flask configuration."""
 
     # Flask settings
-    SECRET_KEY = os.environ.get('SECRET_KEY', 'hamrofish-secret-key')
+    SECRET_KEY = os.environ.get('SECRET_KEY', 'ShibaSwarm-secret-key')
     DEBUG = os.environ.get('FLASK_DEBUG', 'True').lower() == 'true'
 
     # JSON settings - disable ASCII escaping for readable unicode

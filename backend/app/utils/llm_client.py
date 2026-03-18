@@ -11,7 +11,7 @@ from openai import OpenAI
 from ..config import Config
 from .logger import get_logger
 
-logger = get_logger('hamrofish.llm_client')
+logger = get_logger('ShibaSwarm.llm_client')
 
 
 class LLMClient:

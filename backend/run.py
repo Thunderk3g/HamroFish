@@ -1,5 +1,5 @@
-﻿"""
-HamroFish Backend entrypoint
+"""
+ShibaSwarm Backend entrypoint
 """
 
 import os
